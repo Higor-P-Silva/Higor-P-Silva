@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Higor-P-Silva(higor)
 - 👀 I’m interested in a job/freelance.
-- 🌱 I’m currently learning html, css and javascript.
+- 🌱 I’m currently learning html, css, flutter and javascript.
 - 💞️ I’m looking to collaborate on development and schedule.
 - 📫 How to reach me contato.higorpereiradasilva@gmail.com
 - 
